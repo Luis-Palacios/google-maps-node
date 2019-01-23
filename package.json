@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Luis-Palacios/google-maps-node/issues"
   },
-  "homepage": "https://github.com/Luis-Palacios/google-maps-node#readme"
+  "homepage": "https://github.com/Luis-Palacios/google-maps-node#readme",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb": "^17.1.0"
+  }
 }
