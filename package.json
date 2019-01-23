@@ -1,0 +1,24 @@
+{
+  "name": "google-maps-client-api-test",
+  "version": "1.0.0",
+  "description": "Test google maps API client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis-Palacios/google-maps-node.git"
+  },
+  "keywords": [
+    "googlemaps",
+    "node",
+    "expressjs"
+  ],
+  "author": "Luis Palacios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luis-Palacios/google-maps-node/issues"
+  },
+  "homepage": "https://github.com/Luis-Palacios/google-maps-node#readme"
+}
