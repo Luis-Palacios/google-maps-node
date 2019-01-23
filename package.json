@@ -22,8 +22,9 @@
   },
   "homepage": "https://github.com/Luis-Palacios/google-maps-node#readme",
   "devDependencies": {
-    "eslint": "^5.12.1",
-    "eslint-config-airbnb": "^17.1.0"
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
   },
   "dependencies": {
     "@google/maps": "^0.5.5",
