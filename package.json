@@ -30,6 +30,9 @@
   },
   "dependencies": {
     "@google/maps": "^0.5.5",
-    "dotenv": "^6.2.0"
+    "@mapbox/polyline": "^1.0.0",
+    "dotenv": "^6.2.0",
+    "geolib": "^2.0.24",
+    "jsts": "^2.0.3"
   }
 }
